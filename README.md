@@ -5,7 +5,7 @@ Badge is embedded using:
 [![Coverage Status](https://coveralls.io/repos/github/xypimr/lab05/badge.svg?branch=main)](https://coveralls.io/github/xypimr/lab05?branch=main)
 ```
 
-## Laboratory work V
+## Laboratory work V fffffff
 
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере **GTest**
 
